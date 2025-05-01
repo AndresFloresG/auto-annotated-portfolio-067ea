@@ -15,8 +15,13 @@ sections:
     backgroundSize: full
     title: Open Data lab
     subtitle: >-
-      Open Data Lab is a public repository intended to share personal and public
-      statistical analysis
+      Open Data Lab is a platform designed to share results and visualizations
+      from statistical analyses of research studies. It provides an open space
+      where researchers and analysts can make their findings publicly
+      accessible. Anyone interested in publishing their results can request
+      hosting space through the Open Data Lab maintenance team. The platform
+      encourages transparency, collaboration, and the open dissemination of
+      data-driven insights.
     styles:
       self:
         height: auto
